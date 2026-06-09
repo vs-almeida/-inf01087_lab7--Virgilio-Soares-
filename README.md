@@ -1,1 +1,3 @@
-# -inf01087_lab7_-nome-e-sobrenome-
+nome: Virgílio Soares de Almeida
+Curso: ciência da computação
+Disciplina: Introdição
